@@ -12,7 +12,7 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://lh3.googleusercontent.com/proxy/BZLlKKKRm2qQTtfja9R2fO40NIw-p7IS2NtiRKNwHG6iwT4Vmh0rVpWNs-iOOdY8HFUIU3BhS0Kbf6pUTEWwzzBX7UMIcG4L" alt="redux" width="40" height="40"/>
+   <img src="https://lh3.googleusercontent.com/proxy/qyPHJlkW7Oe5tR8RWOqxbbpoenfoKGNQneQfITscEUIE_IMmrCKpyeNXRY732f-89h3vZP9rioHj4Fva54bKYRgaXV3Q36PGt5h5oeKCoiEKoByUK8cd" alt="redux" width="40" height="40"/>
 </p>
 
 
