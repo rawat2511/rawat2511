@@ -33,6 +33,8 @@
 <p align="left">
 <a href="https://twitter.com/Shubham_2511" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham2511" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Shubham-Rawat-220" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHbFj3QXyWGAMik3IOdJKKBtjuQUldl43H4Whci3vsFaKdDL1MMvVMzq-VjN-Ky0oqaQ&usqp=CAU" alt="gautamkrishnar" height="30" width="30" /></a>
+<a href="https://medium.com/@shubham25112000" target="_blank"><img align="center" src="https://www.signaturecollegecounseling.com/college-counseling-services/wp-content/uploads/2018/12/Medium-MagazineLogo.png" alt="gautamkrishnar" height="40" width="46" /></a>
+<a href="https://stackoverflow.com/users/10808146/shubham-rawat" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" alt="gautamkrishnar" height="40" width="40" /></a>
   
-
 
