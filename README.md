@@ -2,9 +2,11 @@
 
 # Hello, I'm Shubham!👋
 
-### 📚 I’m currently persuing Full Stack Web Development course at Masai School.
-### 👨‍💻 I have been building Front End Web Development projects for a while in React Js and use various API's to add some functionality to the project.
-
+- ### Experienced React developer with a year of industry experience, proficient in creating dynamic and responsive user interfaces using React and Redux. 
+- ### Passionate about building efficient and reusable components, optimizing web applications for speed and scalability, and collaborating with cross-functional teams to deliver high-quality software solutions.
+- ### Adept in working with REST APIs, integrating third-party libraries, and conducting thorough testing to ensure top-notch quality. 
+- ### Always keen to learn and explore new technologies, and contribute to open-source projects.
+- ### Dedicated to delivering clean, maintainable, and efficient code that adheres to best practices and coding standards.
 
 ## 🔧 Languages & Tools
 <p align='left'>
